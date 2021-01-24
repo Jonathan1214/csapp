@@ -1,4 +1,4 @@
 ## CSAPP 学习笔记
 
-[chapter 1. Bits, Bytes, & Integers](./chapter1/README.md)
+[chapter 2. 信息的表示和处理](./chapter2/README.md)
 
